@@ -1,0 +1,17 @@
+<application>
+  <component name="uk.co.ben_gibson.git.link.SettingsState">
+    <option name="customHostDomains">
+      <map>
+        <entry key="16abfb4c-4717-4d04-a8f1-7a40fcac9b07">
+          <value>
+            <set>
+              <option value="code.corp.indeed.com" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="hits" value="3" />
+    <option name="lastVersion" value="4.3.1" />
+  </component>
+</application>
