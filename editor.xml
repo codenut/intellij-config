@@ -18,6 +18,11 @@
     </option>
     <option name="enabled" value="false" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Roboto Mono" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Medium" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Medium" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
